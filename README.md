@@ -10,5 +10,4 @@ date: May 25, 2021
 <center>
 <img src="covid_cases.png">
 </center>
-
-2. 
+ 
